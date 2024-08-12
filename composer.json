@@ -1,0 +1,17 @@
+{
+    "name": "andsudev/test-vcs",
+    "description": "test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anderson Lucas",
+            "email": "a.lucassilvadeoliveira@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Andsudev\\TestVcs\\": "src/"
+        }
+    }
+}
