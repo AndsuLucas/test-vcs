@@ -1,14 +1,8 @@
 {
     "name": "andsudev/test-vcs",
-    "description": "test",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Anderson Lucas",
-            "email": "a.lucassilvadeoliveira@gmail.com"
-        }
-    ],
-    "require": {},
+    "description": "A test package for demonstrating VCS usage with Composer",
+    "version": "0.0.2",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Andsudev\\TestVcs\\": "src/"
